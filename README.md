@@ -1,4 +1,3 @@
 # EPI590R repo
 
-This repository belongs to Louisa Smith
-Jeffery
+This repository belongs to Jeffery Osei
